@@ -1,7 +1,7 @@
 title: WIMMA Blog
 baseurl: "/blog"
 exclude: ['README.md']
-permalink: /:title
+#permalink: /:title
 gems: [jekyll-paginate]
 paginate: 4
 paginate_path: "/blog/page-:num/"
