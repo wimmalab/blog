@@ -4,6 +4,6 @@ exclude: ['README.md']
 permalink: /:title
 gems: [jekyll-paginate]
 paginate: 4
-paginate_path: "/page-:num/"
+paginate_path: "blog/page-:num/"
 
 markdown: kramdown
