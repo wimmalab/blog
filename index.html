@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<div class="blog-main">
+    <div class="container posts-container">
+        <header>
+            <h1>Welcome to WIMMA Blog</h1>
+        </header>
+        <div>
+            {% for post in paginator.posts %}
+            <div class="posts">
+            <h2><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
+            <p class="preview">{{post.meta}}</p>
+            <p>Posted <strong>{{ post.date | date_to_long_string }}</strong> by <strong>{{ post.author }}</strong></p>
+            </div>
+            <hr />
+            {% endfor %}
+        </div>
+    </div>
+    <!-- Pagination links -->
+    <div class="pagination">
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous"><strong>&lt; PREVIOUS</strong></a>
+        {% else %}
+        <span class="previous">&lt; previous</span>
+        {% endif %}
+        <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next"><strong>NEXT &gt;</strong></a>
+        {% else %}
+        <span class="next ">next &gt;</span>
+        {% endif %}
+    </div>
+</div>
