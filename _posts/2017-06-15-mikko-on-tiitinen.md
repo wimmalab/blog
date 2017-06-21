@@ -6,7 +6,7 @@ meta: Try-hard forage cray shabby chic. Fam 90's franzen twee vinyl. Scenester b
 author: Jane Doe
 ---
 
-![alt text](/img/testi-1.jpg)
+![alt text]({{site.baseurl}}/img/testi-1.jpg)
 
 Try-hard forage cray shabby chic. Fam 90's franzen twee vinyl. Scenester biodiesel slow-carb cray.
 
