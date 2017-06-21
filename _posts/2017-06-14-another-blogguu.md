@@ -3,7 +3,6 @@ layout: page
 title: Another Blogguu
 date: 2017-06-14
 meta: Pabst green juice tousled, snackwave venmo occupy everyday carry. Four loko locavore irony, swag tousled photo booth keffiyeh ethical.
-category: blog
 author: John Doe
 ---
 

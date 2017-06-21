@@ -1,5 +1,7 @@
 ---
 layout: default
+pagination:
+    enabled: true
 ---
 <div class="blog-main">
     <div class="container posts-container">
@@ -18,17 +20,19 @@ layout: default
         </div>
     </div>
     <!-- Pagination links -->
+    {% if paginator.total_pages > 1 %}
     <div class="pagination">
         {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous"><strong>&lt; PREVIOUS</strong></a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"><strong>&lt; PREVIOUS</strong></a>
         {% else %}
         <span class="previous">&lt; previous</span>
         {% endif %}
         <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
         {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next"><strong>NEXT &gt;</strong></a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next"><strong>NEXT &gt;</strong></a>
         {% else %}
         <span class="next ">next &gt;</span>
         {% endif %}
     </div>
+    {% endif %}
 </div>

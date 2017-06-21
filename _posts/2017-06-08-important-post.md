@@ -3,7 +3,6 @@ layout: page
 title: Important post
 date: 2017-06-08
 meta: Hexagon irony vaporware, banjo whatever squid trust fund +1 hell of crucifix iPhone 8-bit helvetica twee. Kombucha quinoa farm-to-table DIY chambray palo santo before they sold out tacos pug trust fund chartreuse lumbersexual readymade.
-category: blog
 image:
 author: Jane Doe
 ---

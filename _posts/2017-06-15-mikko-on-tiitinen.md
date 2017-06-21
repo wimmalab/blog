@@ -3,7 +3,6 @@ layout: page
 title: Mikko on Tiitinen!
 date: 2017-06-15
 meta: Try-hard forage cray shabby chic. Fam 90's franzen twee vinyl. Scenester biodiesel slow-carb cray.
-category: blog
 author: Jane Doe
 ---
 

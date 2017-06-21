@@ -3,7 +3,6 @@ layout: page
 title: This is BLOG
 date: 2017-06-16
 meta: Coloring book umami offal intelligentsia celiac letterpress, locavore XOXO af 90's ennui mustache tacos crucifix. Fingerstache tousled gentrify raclette, paleo photo booth skateboard yr banh mi 3 wolf moon chambray tofu vegan next level.
-category: blog
 image:
 author: John Doe
 ---

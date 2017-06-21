@@ -3,7 +3,6 @@ layout: page
 title: Oldest Post
 date: 2017-06-01
 meta: Prism kale chips artisan yuccie hell of mumblecore tattooed cred small batch pickled four loko street art kinfolk.
-category: blog
 author: John Doe
 ---
 
