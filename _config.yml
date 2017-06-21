@@ -1,11 +1,9 @@
 title: WIMMA Blog
 baseurl: "/blog"
 exclude: ['README.md']
-gems: [jekyll-paginate-v2]
-pagination:
-    enabled: true
-    per_page: 4
-    permalink: "page/:num/"
-    sort_reverse: true
+permalink: /:title
+gems: [jekyll-paginate]
+paginate: 4
+paginate_path: "/:num/"
 
 markdown: kramdown
