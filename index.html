@@ -21,15 +21,15 @@ layout: default
     {% if paginator.total_pages > 1 %}
     <div class="pagination">
         {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"><strong>&lt; PREVIOUS</strong></a>
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous">&lt; <small>PREVIOUS</small></a>
         {% else %}
-        <span class="previous">&lt; previous</span>
+        <span class="previous">&lt; <small>PREVIOUS</small></span>
         {% endif %}
-        <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+        <span class="page_number ">{{ paginator.page }} / {{ paginator.total_pages }}</span>
         {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next"><strong>NEXT &gt;</strong></a>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next"><small>NEXT </small>&gt;</a>
         {% else %}
-        <span class="next ">next &gt;</span>
+        <span class="next"><small>NEXT</small> &gt;</span>
         {% endif %}
     </div>
     {% endif %}

@@ -66,6 +66,37 @@ body {
         display: block;
         text-align: center;
         font-size: 20px;
+        a:link, a:visited {
+            color: $white;
+            border: 1px solid #6fa79c;
+            background-color: #6fa79c;
+            -webkit-transition: background .3s;
+            -moz-transition: background .3s;
+            -o-transition: background .3s;
+            transition: background .3s;
+        }
+        a:hover, a:active {
+            
+            border: 1px solid $accent;
+            background-color: $accent;
+        }
+    }
+    .previous, .next {
+        color: $lighter;
+        border: 1px solid $lighter;
+        border-radius: 4px;
+        padding: 5px;
+        text-decoration: none;
+        -webkit-transition: color .3s;
+        -moz-transition: color .3s;
+        -o-transition: color .3s;
+        transition: color .3s;
+    }
+    a:link, a:visited {
+        -webkit-transition: color .3s;
+        -moz-transition: color .3s;
+        -o-transition: color .3s;
+        transition: color .3s;
     }
 }
 
