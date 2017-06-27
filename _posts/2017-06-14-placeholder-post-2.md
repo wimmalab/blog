@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogguu
+title: Placeholder Post
 date: 2017-06-14
 meta: Raclette franzen portland flannel semiotics slow-carb 90's blog XOXO VHS asymmetrical typewriter umami put a bird on it. Jianbing tattooed pug, put a bird on it viral affogato brunch.
 author: Jane Doe

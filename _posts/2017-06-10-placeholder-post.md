@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GG
+title: Placeholder Post
 date: 2017-06-10
 meta: Helvetica banh mi iPhone trust fund, hashtag glossier cray hella farm-to-table brunch food truck biodiesel 3 wolf moon viral beard. Tote bag XOXO knausgaard try-hard.
 image:
