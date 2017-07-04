@@ -2,7 +2,7 @@
 layout: page
 title: My Basic Lightroom workflow
 date: 2017-07-04
-meta: WIMMA Lab's photographer Jussi Ahola shares his basic Lightroom workflow! Read to learn my workflow from start to finish, in Adobe Lightroom CC!
+meta: WIMMA Lab's photographer Jussi Ahola shares his basic Lightroom workflow! Read to learn Jussi's workflow from start to finish, in Adobe Lightroom CC!
 image:
 author: Jussi Ahola
 ---
