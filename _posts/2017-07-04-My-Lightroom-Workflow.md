@@ -10,11 +10,10 @@ author: Jussi Ahola
 ### STEP 1. IMPORT PHOTOS INTO LIGHTROOM
 First task is to import the pictures into lightroom’s catalogue. Importing is done by pressing the “import” button in the grid view, or selecting **file > import photos and video…**
 
-<div style="padding: 5em" markdown="1">
+<div style="margin:3em auto 3em auto" markdown="1">
 ![lightroom import dialog]({{site.baseurl}}/img/kuva1.png )
-</div>
 ##### <center>Lightroom import dialog</center>
-
+</div>
 ***
 
 ### STEP 2. SELECT BEST PHOTOS FOR EDITING
