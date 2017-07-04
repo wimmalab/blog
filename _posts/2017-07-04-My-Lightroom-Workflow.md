@@ -7,4 +7,4 @@ image:
 author: Jussi Ahola
 ---
 
-![alt text]({{site.baseurl}}/img/testi-2.jpg)
+![alt text]({{site.baseurl}}/img/kuva1.png)
