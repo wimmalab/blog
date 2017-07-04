@@ -12,7 +12,14 @@ First task is to import the pictures into lightroom’s catalogue. Importing is 
 
 ![lightroom import dialog]({{site.baseurl}}/img/kuva1.png)
 Lightroom import dialog
-
+  
+  
+  
+  
+  
+  
+  
+  
 ***
 
 ### STEP 2. SELECT BEST PHOTOS FOR EDITING
