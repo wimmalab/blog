@@ -50,7 +50,7 @@ In the develop-module you have all the tools you need for editing the photos. On
 -	Apply sharpening and remove chromatic aberration, if needed.
 
 ![Adjustments made in the panel]({{site.baseurl}}/img/kuva6.png)
-<center>Some Adjustments were made to the photo</center>
+###### <center>Some Adjustments were made to the photo</center>
 
 ***
 
