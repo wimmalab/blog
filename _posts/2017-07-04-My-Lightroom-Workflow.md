@@ -77,7 +77,7 @@ After you have the settings dialed in, press “Export”, and you are done.
 
 **That’s it.** This is my most basic workflow in the Adobe Lightroom CC, when editing photos at WIMMA Lab. In the future posts I might write about some effects, such as Black and White, and the integration between Photoshop and Lightroom.  
 Thanks for reading!  
-- Jussi
+-Jussi
 
 
 
