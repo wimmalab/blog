@@ -8,7 +8,7 @@ author: Jussi Ahola
 ---
 
 ### STEP 1. IMPORT PHOTOS INTO LIGHTROOM
-First task is to import the pictures into lightroom’s catalogue. Importing is done by pressing the “import” button in the grid view, or selecting **file > import photos and video…**  
+First task is to import the pictures into lightroom’s catalogue. Importing is done by pressing the “import” button in the grid view, or selecting **file > import photos and video…**
 
 ![lightroom import dialog]({{site.baseurl}}/img/kuva1.png)
 ##### <center>Lightroom import dialog</center>
@@ -17,6 +17,9 @@ First task is to import the pictures into lightroom’s catalogue. Importing is 
 
 ### STEP 2. SELECT BEST PHOTOS FOR EDITING
 Selecting the photos is very critical point in the process. Lightroom has many useful tools for rating and managing your photo library, for example rating and flagging. First thing I like to do is rate the photos very roughly, either 1 or 0. Zero means the photo has been rejected, and 1 means the photo is going to get the basic edits. After the basic edits I like to re-rate the photos. This way I manage to select only the best shots.
+
+test
+test
 
 ![rated photos]({{site.baseurl}}/img/kuva2.png)
 ##### <center>Couple of photos have been rated "1 star"</center>
