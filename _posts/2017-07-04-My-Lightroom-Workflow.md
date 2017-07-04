@@ -7,4 +7,9 @@ image:
 author: Jussi Ahola
 ---
 
+# My Adobe Lightroom Workflow
+**STEP 1. IMPORT PHOTOS INTO LIGHTROOM**
+
+
+
 ![alt text]({{site.baseurl}}/img/kuva1.png)
