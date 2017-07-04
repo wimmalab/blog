@@ -2,8 +2,7 @@
 layout: page
 title: Continuous delivery as a part of a learning experience
 date: 2017-07-04
-meta: Technology business is nowatodays a game of speed. Companies roll out new products, services and features faster than ever before.
-DevOps, CI/CD practices and tools have made it possible to test and release the software automatically, that improves effiency, product quality and customer satisfaction.
+meta: Technology business is nowatodays a game of speed. Companies roll out new products, services and features faster than ever before. DevOps, CI/CD practices and tools have made it possible to test and release the software automatically, that improves effiency, product quality and customer satisfaction.
 image:
 author: Juho Pekki
 ---
