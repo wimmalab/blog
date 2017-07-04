@@ -12,3 +12,6 @@ First task is to import the pictures into lightroom’s catalogue. Importing is 
 
 ![alt text]({{site.baseurl}}/img/kuva1.png)
 Lightroom import dialog
+
+
+###
