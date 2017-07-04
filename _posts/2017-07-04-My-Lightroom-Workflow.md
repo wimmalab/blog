@@ -8,7 +8,7 @@ author: Jussi Ahola
 ---
 
 ### STEP 1. IMPORT PHOTOS INTO LIGHTROOM
-First task is to import the pictures into lightroom’s catalogue. Importing is done by pressing the “import” button in the grid view, or selecting **file > import photos and video…**
+First task is to import the pictures into lightroom’s catalogue. Importing is done by pressing the “import” button in the grid view, or selecting **file > import photos and video…**  
 
 ![lightroom import dialog]({{site.baseurl}}/img/kuva1.png)
 ##### <center>Lightroom import dialog</center>
@@ -34,7 +34,7 @@ Clicking the leftmost star enables filter which shows every photo that is rated 
 Now you see only photos which are rated 1 or higher.
 
 ![See only rated photos]({{site.baseurl}}/img/kuva4.png)
-<center>Photos rated 1 or higher</center>
+##### <center>Photos rated 1 or higher</center>
 
 Now is the time for basic editing. Editing is done in the Develop-module, and it can be accessed by clicking “develop” in the right upper corner of the screen, or pressing “D” on your keyboard.
 
