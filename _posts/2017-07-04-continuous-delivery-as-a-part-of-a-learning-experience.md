@@ -4,7 +4,7 @@ title: Continuous delivery as a part of a learning experience
 date: 2017-07-04
 meta: Coloring book umami offal intelligentsia celiac letterpress, locavore XOXO af 90's ennui mustache tacos crucifix. Fingerstache tousled gentrify raclette, paleo photo booth skateboard yr banh mi 3 wolf moon chambray tofu vegan next level.
 image:
-author: John Doe
+author: Juho Pekki
 ---
 
 Continuous delivery as a part of a learning experience
