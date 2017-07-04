@@ -11,7 +11,7 @@ author: Jussi Ahola
 First task is to import the pictures into lightroom’s catalogue. Importing is done by pressing the “import” button in the grid view, or selecting **file > import photos and video…**
 
 ![lightroom import dialog]({{site.baseurl}}/img/kuva1.png)
-<center>Lightroom import dialog</center>
+##### <center>Lightroom import dialog</center>
 
 ***
 
@@ -19,7 +19,7 @@ First task is to import the pictures into lightroom’s catalogue. Importing is 
 Selecting the photos is very critical point in the process. Lightroom has many useful tools for rating and managing your photo library, for example rating and flagging. First thing I like to do is rate the photos very roughly, either 1 or 0. Zero means the photo has been rejected, and 1 means the photo is going to get the basic edits. After the basic edits I like to re-rate the photos. This way I manage to select only the best shots.
 
 ![rated photos]({{site.baseurl}}/img/kuva2.png)
-<center>Couple of photos have been rated "1 star"</center>
+##### <center>Couple of photos have been rated "1 star"</center>
 
 ***
 
@@ -27,7 +27,7 @@ Selecting the photos is very critical point in the process. Lightroom has many u
 After the initial rating, it is time to edit the photos. First thing to do is to view only the photos which are rated as 1 star. This is called filtering, and it’s done by selecting the option shown in the photo below.
 
 ![select rated photos]({{site.baseurl}}/img/kuva3.png)
-<center>Filtering photos based on rating</center>
+##### <center>Filtering photos based on rating</center>
 
 It is important to select >=-option (one start or higher), as the small arrow shows in the photo.
 Clicking the leftmost star enables filter which shows every photo that is rated 1 star or higher.
@@ -39,7 +39,7 @@ Now you see only photos which are rated 1 or higher.
 Now is the time for basic editing. Editing is done in the Develop-module, and it can be accessed by clicking “develop” in the right upper corner of the screen, or pressing “D” on your keyboard.
 
 ![Develop Module]({{site.baseurl}}/img/kuva5.png)
-<center>Develop Module</center>
+##### <center>Develop Module</center>
 
 In the develop-module you have all the tools you need for editing the photos. On the right you have your sliders and adjustments, and on the right you see lightroom presets, and the presets you may have created yourself. On the bottom you see a strip of photos you filtered in the last step.
 
@@ -50,7 +50,7 @@ In the develop-module you have all the tools you need for editing the photos. On
 -	Apply sharpening and remove chromatic aberration, if needed.
 
 ![Adjustments made in the panel]({{site.baseurl}}/img/kuva6.png)
-###### <center>Some Adjustments were made to the photo</center>
+##### <center>Some Adjustments were made to the photo</center>
 
 ***
 
