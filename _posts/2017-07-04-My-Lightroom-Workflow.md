@@ -23,8 +23,8 @@ Selecting the photos is very critical point in the process. Lightroom has many u
 
 ***
 
-### STEP 3. EDITING THE SELECTED PHOTOS
-After the initial rating, it is time to edit the photos. First thing to do is to view only the photos which are rated as 1 star. This is called filtering, and it’s done by selecting the option shown in the photo below.
+### STEP 3. EDITING THE SELECTED PHOTOS  
+After the initial rating, it is time to edit the photos. First thing to do is to view only the photos which are rated as 1 star. This is called filtering, and it’s done by selecting the option shown in the photo below.  
 
 ![select rated photos]({{site.baseurl}}/img/kuva3.png)
 ##### <center>Filtering photos based on rating</center>
