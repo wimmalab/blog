@@ -3,7 +3,7 @@ layout: page
 title: My Basic Lightroom workflow
 date: 2017-07-04
 meta: WIMMA Lab's photographer Jussi Ahola shares his basic Lightroom workflow! Read to learn Jussi's workflow from start to finish, in Adobe Lightroom CC!
-image:
+image: "../img/hero.png"
 author: Jussi Ahola
 ---
 Hello. In this blog post I’m going to share with you my workflow in Adobe Lightroom. Lightroom is the tool chosen by many photographers for photo editing and management. After reading this post you will have a basic understanding of the steps involved, and what goes into the photos I produce. There are 4 main steps to consider when producing pictures. Importing, rating the images, editing them, and finally exporting the final pictures.
