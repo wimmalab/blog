@@ -6,7 +6,7 @@ meta: WIMMA Lab's photographer Jussi Ahola shares his basic Lightroom workflow! 
 image:
 author: Jussi Ahola
 ---
-Hello. In this blog post I’m going to share with you my workflow in Adobe Lightroom. Lightroom is the tool chosen by many photographers for photo editing and management. After reading this post you will have a basic understanding of the steps, and what goes into the photos I produce. There are 4 main steps to consider when producing pictures. Importing, rating the images, editing them, and finally exporting the final pictures.
+Hello. In this blog post I’m going to share with you my workflow in Adobe Lightroom. Lightroom is the tool chosen by many photographers for photo editing and management. After reading this post you will have a basic understanding of the steps involved, and what goes into the photos I produce. There are 4 main steps to consider when producing pictures. Importing, rating the images, editing them, and finally exporting the final pictures.
 
 ### STEP 1. IMPORT PHOTOS INTO LIGHTROOM
 First task is to import the pictures into lightroom’s catalogue. Importing is done by pressing the “import” button in the grid view, or selecting **file > import photos and video…**
