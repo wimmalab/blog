@@ -6,8 +6,6 @@ meta: Coloring book umami offal intelligentsia celiac letterpress, locavore XOXO
 image:
 author: Juho Pekki
 ---
-
-Continuous delivery as a part of a learning experience
  
 Technology business is nowatodays a game of speed. Companies roll out new products, services and features faster than ever before.
 DevOps, CI/CD practices and tools have made it possible to test and release the software automatically, that improves effiency, product quality and customer satisfaction.
