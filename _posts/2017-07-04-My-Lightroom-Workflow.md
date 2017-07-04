@@ -54,7 +54,7 @@ In the develop-module you have all the tools you need for editing the photos. On
 
 ***
 
-## STEP 4. EXPORTING PHOTOS FROM LIGHTROOM
+### STEP 4. EXPORTING PHOTOS FROM LIGHTROOM
 After the editing, it is time to export the photos from lightroom, so they can be used anywhere. Select all the photos you want to export, and then open the export dialog. Export dialog can be accessed by clicking **File > Export**
 
 ![Export Dialog]({{site.baseurl}}/img/kuva7.png)
