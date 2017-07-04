@@ -20,6 +20,7 @@ Selecting the photos is very critical point in the process. Lightroom has many u
 
 test  
   
+  
 test
 
 ![rated photos]({{site.baseurl}}/img/kuva2.png)
