@@ -14,12 +14,12 @@ Initial setup for a pipeline takes time and expertise, but in the long run time 
 The workflow and systems used by developers are fundamentally changing. Academic world is still getting up to speed with the current DevOps development.
  
  
-Continuous Delivery? Beautiful word but what it actually means?
+### Continuous Delivery? Beautiful word but what it actually means?
  
 Continuous Delivery (CD) is a practice, where teams produce and test the code in short cycles to ensure that it is always in releasable state. CD relies heavily on automation and Continous Integration (CI) practice. CI focuses on detecting possible errors as early as possible, using automated build and test for verifying each integration. CD expands CI pipeline by deploying the code to staging environment, where multiple tests are executed. These tests can focus on integration testing or acceptance testing such as performance testing and reliability testing.
 The purpose of CD is to automatically build, test, configure and prepare the code to the production environment. The deployment to the production environment is automated, but it must be approved manually.
  
-How Continuous Delivery affects the business?
+### How Continuous Delivery affects the business?
  
 Releases are more reliable, because the software is tested repeatedly. That leads to a improved product quality.
 The software release cycle improves, because the code is always in releasable state. Earlier the release cycle was counted in months and nowadays it can be deployed multiple times per day.
@@ -28,7 +28,7 @@ Teams efficiency improves, because CI/CD pipeline automatically sets up the envi
 It can be stated that CI/CD practices improve customer satisfaction and reduce costs.
  
  
-Why it is a important part of the students learning experience?
+### Why it is a important part of the students learning experience?
  
  - CI/CD practices help students to understand all stages of the software development.
  - CI/CD practices force students to consider the software testing perspective, that is often forgotten or minimally implemented.
