@@ -13,6 +13,8 @@ First task is to import the pictures into lightroom’s catalogue. Importing is 
 ![lightroom import dialog]({{site.baseurl}}/img/kuva1.png)
 <center>Lightroom import dialog</center>
 
+&nbsp;
+&nbsp;
 ***
 
 ### STEP 2. SELECT BEST PHOTOS FOR EDITING
@@ -21,7 +23,8 @@ Selecting the photos is very critical point in the process. Lightroom has many u
 ![rated photos]({{site.baseurl}}/img/kuva2.png)
 <center>Couple of photos have been rated "1 star"</center>
 
-
+&nbsp;
+&nbsp;
 ***
 
 ### STEP 3. EDITING THE SELECTED PHOTOS
@@ -53,6 +56,8 @@ In the develop-module you have all the tools you need for editing the photos. On
 ![Adjustments made in the panel]({{site.baseurl}}/img/kuva6.png)
 <center>Some Adjustments were made to the photo</center>
 
+&nbsp;
+&nbsp;
 ***
 
 ## STEP 4. EXPORTING PHOTOS FROM LIGHTROOM
