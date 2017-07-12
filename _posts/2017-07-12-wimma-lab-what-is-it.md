@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WIMMA lab: What is it?
+title: WIMMA lab - What is it?
 date: 2017-07-12
 meta: WIMMA lab is a challenge centered learning concept.The lab runs as a 2,5-month project, which students participate as trainees. During the project, students form "virtual company" teams and solve challenges.
 image:
