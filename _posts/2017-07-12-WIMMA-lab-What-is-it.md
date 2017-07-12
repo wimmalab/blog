@@ -2,8 +2,7 @@
 layout: page
 title: WIMMA lab: What is it?
 date: 2017-07-12
-meta: WIMMA lab is a challenge centered learning concept.The lab runs as a 2,5-month project, which students participate as trainees.
-During the project, students form "virtual company" teams and solve challenges.
+meta: WIMMA lab is a challenge centered learning concept.The lab runs as a 2,5-month project, which students participate as trainees. During the project, students form "virtual company" teams and solve challenges.
 image:
 author: Lauri Mäkinen
 ---
@@ -31,6 +30,7 @@ The learning concept had matured under the wings of research projects. Jyväskyl
 For future proofing the learning concept, name had to be changed, because Challenge Factory was already taken. From a long creative process, WIMMA Lab emerged.
 
 ![alt text]({{site.baseurl}}/img/what_it_wimma1.jpg)
+
 ### WIMMA Lab today
 WIMMA Lab has established itself as an integral part of the dialogue opener between Jyväskylä University of Applied Sciences and companies.
 Participating students are not only seen by companies as more experienced students when it comes to team and software development methodologies, but also as a gateway for the University to invite companies and media to showcase kind of talents and courses it has to offer.
